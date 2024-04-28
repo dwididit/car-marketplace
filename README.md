@@ -148,6 +148,10 @@ CREATE TABLE bids (
 );
 ```
 
+# Entity Relationship Diagram (ERD)
+![Logo](https://dwidi.dev/wp-content/uploads/2024/04/ERD.png)
+
+
 # Car Marketplace Database Setup
 
 This guide will walk you through the process of setting up the Car Marketplace database using PostgreSQL.
