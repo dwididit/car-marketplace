@@ -3,7 +3,7 @@
 A PostgreSQL database project for a used car platform. It includes SQL scripts for table creation, data insertion, and queries that analyze sales trends, bid dynamics, and pricing. Ideal for integrating data insights into web applications.
 
 # Entity Relationship Diagram (ERD)
-![Logo](https://dwidi.dev/wp-content/uploads/2024/04/ERD.png)
+![Logo]([https://dwidi.dev/wp-content/uploads/2024/04/ERD.png](https://dwidi.com/wp-content/uploads/2024/08/car-marketplace-erd.png))
 
 # Database Schema Overview
 
